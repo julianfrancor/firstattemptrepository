@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-This is a repository to store the zero_day Holberton projects
+I'm now a Holberton Student, this is my first repository as a full-stack engineer
